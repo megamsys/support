@@ -1,13 +1,15 @@
 ### Description of your issue:
 
-### Expected behaviour
 
-### Actual behaviour
 
 ### Steps to reproduce the issues
+1. Launch https://<ip>
+2. Create VM
+3. 
 
-NOTE: If you are experiencing a deploy failure, please include:
+`NOTE:`
 
--Link to the failed deployment. We'll use the administrator id to impersonate and debug.
-- Any logs as per [troubleshooting](http://docs.megam.io/troubleshooting/)
+If you are experiencing a deploy failure, please include:
+
+- Link to the failed deployment. We'll use the administrator id to impersonate and debug.
 - Upload screenshots if there is an error reported in the userinteface.
